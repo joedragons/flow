@@ -35,7 +35,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Checks access to views using an {@link AccessAnnotationChecker}.
- * <p>
+ *
  * An instance of this class should be added as a {@link BeforeEnterListener} to
  * the {@link com.vaadin.flow.component.UI} of interest.
  */
